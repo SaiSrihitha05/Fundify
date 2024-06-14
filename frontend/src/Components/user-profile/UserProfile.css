@@ -1,0 +1,8 @@
+.nav-link1:hover{
+    text-decoration: underline;
+    padding: 3px;
+    margin:10px;
+}
+.nav-link1{
+    text-align: center;
+}
